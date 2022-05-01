@@ -17,11 +17,10 @@ jobs:
       uses: thedoctor0/zip-release@master
       with:
         filename: 'CalamityMaskupPack.zip'
-        exclusions: '*.git* /*node_modules/* .editorconfig'
+        exclusions: '*.git* /*node_modules/* .editorconfig hash.txt'
     - name: Generate hashsum
       run: |
-        ls
-        sha1sum CalamityMaskupPack.zip > hash.txt
+        sha1sum CalamityMaskupPack.zip | cut -d " " -f 1 | tee hash.txt
     - name: push changes to remote
       run: |
         git add -A
