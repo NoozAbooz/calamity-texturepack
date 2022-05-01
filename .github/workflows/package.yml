@@ -1,15 +1,15 @@
 name: Create Archive
 on: [push]
 jobs:
-  build:
+  package:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout code
       uses: actions/checkout@v2
     - name: pull latest and remove old file from repo
       run: |
-        git config --global user.name "usernamehere"
-        git config --global user.email "emailhere"
+        git config --global user.name "mobilegmYT"
+        git config --global user.email "zhengm58@gmail.com"
         git config pull.rebase false
         git pull
         rm -f release.zip
