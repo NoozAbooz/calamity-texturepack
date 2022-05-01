@@ -16,10 +16,10 @@ jobs:
     - name: Archive Release
       uses: thedoctor0/zip-release@master
       with:
-        filename: 'release.zip'
+        filename: 'CalamityMaskupPack.zip'
         exclusions: '*.git* /*node_modules/* .editorconfig'
     - name: push changes to remote
       run: |
         git add -A
-        git commit -m "new pack"
+        git commit -m "Update pack"
         git push --force
