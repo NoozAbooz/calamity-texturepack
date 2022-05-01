@@ -20,7 +20,8 @@ jobs:
         exclusions: '*.git* /*node_modules/* .editorconfig'
     - name: Generate hashsum
       run: |
-        echo $(sha1sum CalamityMashupPack.zip | awk '{ print $1 }') > hash.txt
+        ls
+        sha1sum CalamityMaskupPack.zip > hash.txt
     - name: push changes to remote
       run: |
         git add -A
