@@ -18,6 +18,11 @@ jobs:
       with:
         filename: 'CalamityMaskupPack.zip'
         exclusions: '*.git* /*node_modules/* .editorconfig'
+    - name: Generate hashsum
+      uses: MCJack123/ghaction-generate-release-hashes@v1
+      with:
+        hash-type: sha1
+        file-name: hashes.txt
     - name: push changes to remote
       run: |
         git add -A
