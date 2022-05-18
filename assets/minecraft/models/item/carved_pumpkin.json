@@ -9,6 +9,13 @@
         {"predicate": {"custom_model_data": 1}, "model": "item/belos"},
         {"predicate": {"custom_model_data": 2}, "model": "item/kingskull"},
         {"predicate": {"custom_model_data": 3}, "model": "item/kingandrias"},
-        {"predicate": {"custom_model_data": 4}, "model": "item/hoot"}
+        {"predicate": {"custom_model_data": 4}, "model": "item/hoot"},
+        {"predicate": {"custom_model_data": 5}, "model": "item/bill"},
+        {"predicate": {"custom_model_data": 6}, "model": "item/stanshat"},
+        {"predicate": {"custom_model_data": 7}, "model": "item/pphoot"},
+        {"predicate": {"custom_model_data": 8}, "model": "item/shack"},
+        {"predicate": {"custom_model_data": 9}, "model": "item/toh"},
+        {"predicate": {"custom_model_data": 10}, "model": "item/farm"},
+        {"predicate": {"custom_model_data": 11}, "model": "item/dippyhat"}
     ]
 }
