@@ -1,0 +1,21 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "item/honey_bottle",
+		"particle": "item/honey_bottle"
+	},
+	"elements": [
+		{
+			"from": [6.5, 0, 6.5],
+			"to": [9.5, 5, 9.5],
+			"faces": {
+				"north": {"uv": [5, 5, 12, 15], "texture": "#0"},
+				"east": {"uv": [5, 5, 12, 15], "texture": "#0"},
+				"south": {"uv": [5, 5, 12, 15], "texture": "#0"},
+				"west": {"uv": [5, 5, 12, 15], "texture": "#0"},
+				"up": {"uv": [7, 1, 11, 5], "texture": "#0"},
+				"down": {"uv": [3, 2, 6, 5], "texture": "#0"}
+			}
+		}
+	]
+}
