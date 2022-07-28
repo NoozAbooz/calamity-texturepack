@@ -1,0 +1,19 @@
+Resized Glyph Images to be square so they do not appear squished in-game
+
+Fixed glitch with dippers hat falling through blocks when dropped on the ground
+
+Re-alligned the positioning of the HootyPP Hat item
+
+Fixed dippers hat to actually have a pine tree on the front
+
+Fixed corners of blue moon to blend with night time better
+
+Added death star as a moon phase
+
+Added CALAMITY REALMS loading screen
+
+Replaced husk with Woodman from Hilda -OPTIFINE REQUIRED-
+
+New pack icon
+
+Updated pack version to 1.19

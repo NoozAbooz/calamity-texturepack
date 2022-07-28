@@ -1,6 +1,6 @@
 {
   "pack": {
-    "pack_format": 8,
-    "description": "Resource pack mashup for the Calamity Realms server."
+    "pack_format": 9,
+    "description": "Custom resource pack for the Calamity Realms server."
   }
 }
