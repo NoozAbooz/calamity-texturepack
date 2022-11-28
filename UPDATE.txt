@@ -1,19 +1,13 @@
-Resized Glyph Images to be square so they do not appear squished in-game
+Added infinity train door to replace acacia fence gate
 
-Fixed glitch with dippers hat falling through blocks when dropped on the ground
+Fixed pivot points on the woodsman arms
 
-Re-alligned the positioning of the HootyPP Hat item
+Added gregs teapot as pumpkin-hat #12
 
-Fixed dippers hat to actually have a pine tree on the front
+Added a Hooty Flower to replace Sunflower
 
-Fixed corners of blue moon to blend with night time better
+Added Agent P Pumpkin-hat #14
 
-Added death star as a moon phase
+Added Darcy Helmet Pumpkin-hat #13
 
-Added CALAMITY REALMS loading screen
-
-Replaced husk with Woodman from Hilda -OPTIFINE REQUIRED-
-
-New pack icon
-
-Updated pack version to 1.19
+Added Frobo as the Iron Golem

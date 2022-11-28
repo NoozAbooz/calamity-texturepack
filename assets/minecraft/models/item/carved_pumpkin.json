@@ -16,6 +16,9 @@
         {"predicate": {"custom_model_data": 8}, "model": "item/shack"},
         {"predicate": {"custom_model_data": 9}, "model": "item/toh"},
         {"predicate": {"custom_model_data": 10}, "model": "item/farm"},
-        {"predicate": {"custom_model_data": 11}, "model": "item/dippyhat"}
+        {"predicate": {"custom_model_data": 11}, "model": "item/dippyhat"},
+        {"predicate": {"custom_model_data": 12}, "model": "item/gregsteapot"},
+        {"predicate": {"custom_model_data": 13}, "model": "item/darcyhelmet"},
+        {"predicate": {"custom_model_data": 14}, "model": "item/agentpdisguise"}
     ]
 }

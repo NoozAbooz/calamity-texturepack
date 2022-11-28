@@ -6,7 +6,7 @@
 			"part": "head",
 			"id": "head",
 			"invertAxis": "xy",
-			"translate": [0, -24, 0],
+			"translate": [0, -23, 0],
 			"boxes": [
 				{"coordinates": [-4, 22.5, -4, 8, 8, 8], "textureOffset": [32, 48]},
 				{"coordinates": [-1, 23.5, -7, 2, 2, 3], "textureOffset": [1, 54]}
@@ -22,7 +22,7 @@
 			"part": "body",
 			"id": "body",
 			"invertAxis": "xy",
-			"translate": [0, -24, 0],
+			"translate": [0, -20, 0],
 			"boxes": [
 				{"coordinates": [-3, 12, -2, 6, 9, 4], "textureOffset": [16, 16]}
 			]
@@ -32,7 +32,7 @@
 			"id": "left_arm",
 			"invertAxis": "xy",
 			"mirrorTexture": "u",
-			"translate": [5, -22, 0],
+			"translate": [4, -19, 0],
 			"boxes": [
 				{"coordinates": [-5, 10, -1, 2, 10, 2], "textureOffset": [18, 18.5]}
 			]
@@ -41,7 +41,7 @@
 			"part": "right_arm",
 			"id": "right_arm",
 			"invertAxis": "xy",
-			"translate": [-5, -22, 0],
+			"translate": [-4, -19, 0],
 			"boxes": [
 				{"coordinates": [3, 10, -1, 2, 10, 2], "textureOffset": [9, 14.5]}
 			]
@@ -67,8 +67,10 @@
 			],
 			"submodels": [
 				{
+					"id": "right_leg_sub_0",
 					"invertAxis": "xy",
 					"mirrorTexture": "u",
+					"translate": [0, 0, 0],
 					"boxes": [
 						{"coordinates": [1, 3, -3, 2, 1, 2], "textureOffset": [4.5, 23]}
 					]
