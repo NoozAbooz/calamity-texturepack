@@ -1,13 +1,1 @@
-Added infinity train door to replace acacia fence gate
-
-Fixed pivot points on the woodsman arms
-
-Added gregs teapot as pumpkin-hat #12
-
-Added a Hooty Flower to replace Sunflower
-
-Added Agent P Pumpkin-hat #14
-
-Added Darcy Helmet Pumpkin-hat #13
-
-Added Frobo as the Iron Golem
+Updated pack format to be compatible with 1.19.3

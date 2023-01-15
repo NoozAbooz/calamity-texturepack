@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "hattextures/farm",
-		"particle": "hattextures/farm"
+		"0": "item/farm",
+		"particle": "item/farm"
 	},
 	"elements": [
 		{

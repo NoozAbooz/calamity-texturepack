@@ -281,5 +281,11 @@
 		"fixed": {
 			"translation": [0, 0, -2.75]
 		}
-	}
+  },
+    "overrides": [
+        {"predicate": {"custom_model_data": 1}, "model": "item/golden_fire_sword"},
+        {"predicate": {"custom_model_data": 2}, "model": "item/golden_nunchucks"},
+        {"predicate": {"custom_model_data": 3}, "model": "item/golden_shurikan"},
+        {"predicate": {"custom_model_data": 4}, "model": "item/golden_scythe"}
+    ]
 }

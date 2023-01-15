@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "hattextures/agentphat",
-		"particle": "hattextures/agentphat"
+		"0": "item/agentphat",
+		"particle": "item/agentphat"
 	},
 	"elements": [
 		{

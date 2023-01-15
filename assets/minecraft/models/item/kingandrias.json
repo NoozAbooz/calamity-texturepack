@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "hattextures/kingandrias",
-		"particle": "hattextures/kingandrias"
+		"0": "item/kingandrias",
+		"particle": "item/kingandrias"
 	},
 	"elements": [
 		{

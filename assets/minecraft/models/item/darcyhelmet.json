@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "hattextures/darcyhelm",
-		"1": "hattextures/darcyeyes",
-		"particle": "hattextures/darcyhelm"
+		"0": "item/darcyhelm",
+		"1": "item/darcyeyes",
+		"particle": "item/darcyhelm"
 	},
 	"elements": [
 		{

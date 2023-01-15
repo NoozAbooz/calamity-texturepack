@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "hattextures/bill",
-		"particle": "hattextures/bill"
+		"0": "item/bill",
+		"particle": "item/bill"
 	},
 	"elements": [
 		{

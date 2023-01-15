@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 32],
 	"textures": {
-		"0": "hattextures/kingskull",
-		"particle": "hattextures/kingskull"
+		"0": "item/kingskull",
+		"particle": "item/kingskull"
 	},
 	"elements": [
 		{

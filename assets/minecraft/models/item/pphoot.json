@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "hattextures/hoot",
-		"particle": "hattextures/hoot"
+		"0": "item/hoot",
+		"particle": "item/hoot"
 	},
 	"elements": [
 		{
